@@ -1,0 +1,26 @@
+.heading1 {
+    font-size: 70px;
+    font-weight: 1000px;
+    color: black;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.line_break {
+    color: black;
+}
+
+#sub_headings {
+    margin-left: 50px;
+    background-color: light blue;
+}
+
+#sub_heading1 {
+    font-size: 30px;
+}
+
+#forms {
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
